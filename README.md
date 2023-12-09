@@ -1,3 +1,13 @@
+# Instructions
+
+Fork the Repository
+
+Rename the UNET.ipynb file to your UNET_<your_lastname>.ipynb
+
+Run and Experiment
+
+Then store add the File to the Exercise Folder
+
 ### Use the requirements.txt if you need to install the dependencies for your environment / virtual environment
 ---
 
